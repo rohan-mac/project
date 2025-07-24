@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+.wrapper{
+    max-width: 1600px;
+    margin: auto;
+    padding: 20px;
+}
+.page-with {
+    margin: auto;
+    max-width: 100%;
+}
+.announsment-inner{
+    background: rebeccapurple;
+}
